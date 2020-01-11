@@ -1,10 +1,13 @@
+var uppercase = 'hello'.toUpperCase()
+ var lowercase = 'HELLO'.toLowerCase()
+ 
 function shout(string){
-  var uppercase = 'hello'.toUpperCase()
+
   return uppercase
 }
 
 function whisper(string){
-  var lowercase = 'HELLO'.toLowerCase()
+ 
   return lowercase
 }
 
