@@ -16,10 +16,10 @@ function logWhisper(string){
 
 function sayHiToGrandma(string){
  
- if(string == lowercase) {
+ if(string == whisper) {
    return "I can't hear you!"
    
- }else if(string == uppercase){
+ }else if(string == shout){
    return "YES INDEED!"
    
  }else if (string == "I love you, Grandma."){
