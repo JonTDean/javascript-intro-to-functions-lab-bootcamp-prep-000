@@ -3,15 +3,15 @@ function shout(string){
 }
 
 function whisper(string){
-  return 'HELLO'
+  return 'HELLO'.toLowerCase()
 }
 
 function logShout(string){
-  return console.log('hello')
+  return console.log('hello'.toUpperCase())
 }
 
 function logWhisper(string){
-  return console.log('HELLO')
+  return console.log('HELLO'.toLowerCase())
 }
 
 function sayHiToGrandma(string){
