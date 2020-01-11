@@ -1,17 +1,17 @@
 function shout(string){
-  return "hello"
+  return 'hello'
 }
 
 function whisper(string){
-  return "HELLO"
+  return 'HELLO'
 }
 
 function logShout(string){
-  return console.log("hello")
+  return console.log('hello')
 }
 
 function logWhisper(string){
-  return console.log("HELLO")
+  return console.log('HELLO')
 }
 
 function sayHiToGrandma(string){
