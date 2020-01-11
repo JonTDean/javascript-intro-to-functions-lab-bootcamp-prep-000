@@ -1,9 +1,9 @@
 function shout(string){
-  return "This is not shouting!"
+  return "hello"
 }
 
 function whisper(string){
-  return "THIS IS NOT WHISPERING!"
+  return "HELLO"
 }
 
 function logShout(string){
