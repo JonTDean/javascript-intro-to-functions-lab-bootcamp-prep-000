@@ -1,17 +1,17 @@
 function shout(string){
-  return console.log("This is not shouting!")
+  return "This is not shouting!"
 }
 
 function whisper(string){
-  return console.log("THIS IS NOT WHISPERING!")
+  return "THIS IS NOT WHISPERING!"
 }
 
 function logShout(string){
-  return console.log(
+  return console.log("This is not shouting!")
 }
 
 function logWhisper(string){
-  
+  return console.log("THIS IS NOT WHISPERING!")
 }
 
 function sayHiToGrandma(string){
