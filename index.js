@@ -18,7 +18,9 @@ function sayHiToGrandma(string){
  
  if(" ") {
    
- }else(" "){
+ }else if(" "){
+   
+ }else if (" "){
    
  }
  
