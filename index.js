@@ -16,11 +16,14 @@ function logWhisper(string){
 
 function sayHiToGrandma(string){
  
- if(" ") {
+ if(string == lowercase) {
+   return "I can't hear you!"
    
- }else if(" "){
+ }else if(string == uppercase){
+   return "YES INDEED!"
    
- }else if (" "){
+ }else if (string == "I love you, Grandma."){
+   return "I love you, too."
    
  }
  
