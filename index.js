@@ -14,4 +14,12 @@ function logWhisper(string){
   
 }
 
-function
+function sayHiToGrandma(string){
+ 
+ if(" ") {
+   
+ }else(" "){
+   
+ }
+ 
+}
